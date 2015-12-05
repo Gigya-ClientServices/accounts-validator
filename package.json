@@ -1,0 +1,14 @@
+{
+  "name": "accounts-data-validator",
+  "description": "Gigya Accounts Data Validator",
+  "version": "0.0.1",
+  "readmeFilename": "README.md",
+  "readme": "thank you",
+  "private": true,
+  "dependencies": {
+    "async": "*",
+    "JSONStream": "*",
+    "lodash": "*",
+    "moment": "*"
+  }
+}
